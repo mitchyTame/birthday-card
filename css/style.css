@@ -30,6 +30,7 @@ body {
 .label {
   font-size: 9.6rem;
   font-family: 'Lobster';
+  margin: 2rem;
   color: #EF2356; }
 
 .main-content {
